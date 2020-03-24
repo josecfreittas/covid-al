@@ -17,31 +17,31 @@
   <meta property="og:url" content="https://covid-al.info/">
   <meta property="og:title" content="COVID-19 Alagoas - Mapa de propagação do novo Coronavírus em Alagoas">
   <meta property="og:description" content="Acompanhe a evolução dos casos do COVID-19 no estado de Alagoas.">
-  <meta property="og:image" content="socia-cover.png">
+  <meta property="og:image" content="https://covid-al.info/social-cover.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://covid-al.info/">
   <meta property="twitter:title" content="COVID-19 Alagoas - Mapa de propagação do novo Coronavírus em Alagoas">
   <meta property="twitter:description" content="Acompanhe a evolução dos casos do COVID-19 no estado de Alagoas.">
-  <meta property="twitter:image" content="socia-cover.png">
+  <meta property="twitter:image" content="https://covid-al.info/social-cover.png">
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" sizes="57x57" href="https://covid-al.info/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://covid-al.info/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://covid-al.info/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://covid-al.info/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://covid-al.info/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://covid-al.info/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://covid-al.info/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://covid-al.info/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://covid-al.info/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="https://covid-al.info/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://covid-al.info/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://covid-al.info/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://covid-al.info/favicon-16x16.png">
+  <link rel="manifest" href="https://covid-al.info/manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="msapplication-TileImage" content="https://covid-al.info/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js"></script>
@@ -59,73 +59,9 @@
       G1 Alagoas
     </a>
   </div>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-    }
-
-    #map {
-      width: 100vw;
-      height: 100vh;
-    }
-  </style>
-  <style>
-    #info {
-      position: fixed;
-      z-index: 5000;
-      bottom: 0;
-      padding: 8px 10px;
-      background: #fff;
-      left: 0;
-      border-top-right-radius: 10px;
-      font-size: 13px;
-    }
-
-    .mapboxgl-popup {
-      max-width: 400px;
-      font: 16px "Helvetica Neue", Arial, Helvetica, sans-serif;
-    }
-
-    .mapboxgl-popup-content {
-      min-width: 250px;
-    }
-
-    .mapboxgl-popup h1 {
-      font-size: 20px;
-      margin-top: 0;
-      padding: 5px 10px;
-      background: #f0f0f0;
-    }
-
-    .mapboxgl-popup .counter {
-      border-left: 5px solid #cccccc;
-      padding: 0 10px;
-      height: 25px;
-      line-height: 25px;
-      margin: 10px 5px;
-      display: flex;
-      justify-content: space-between;
-    }
-
-    .mapboxgl-popup .counter.suspects {
-      border-color: rgb(250, 225, 175);
-      background: rgba(250, 225, 175, 0.25);
-    }
-
-    .mapboxgl-popup .counter.confirmed {
-      border-color: rgb(250, 175, 175);
-      background: rgba(250, 175, 175, 0.25);
-    }
-
-    .mapboxgl-popup .counter.deaths {
-      border-color: rgb(110, 110, 110);
-      background: rgba(110, 110, 110, 0.2);
-    }
-  </style>
-  <script src="data.js"></script>
-  <script src="index.js"></script>
+  <link href="https://covid-al.info/style.css" rel="stylesheet" />
+  <script src="https://covid-al.info/data.js"></script>
+  <script src="https://covid-al.info/index.js"></script>
 </body>
 
 </html>
