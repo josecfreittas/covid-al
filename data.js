@@ -11,7 +11,7 @@ cities = [
     "deaths": 0
   },
   {
-    "id": 0,
+    "id": 2,
     "name": "Arapiraca",
     "coordinates": [
       -9.751072,
