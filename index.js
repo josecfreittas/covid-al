@@ -40,6 +40,11 @@ map.on("load", function () {
     data: {
       type: "FeatureCollection",
       features: cities.map(city => {
+
+        const suspects = getRadius(city.suspects, total.suspects, 100);
+        const confirmed = getRadius(city.confirmed, total.confirmed, 100);
+        const deaths = getRadius(city.deaths, total.deaths, 100);
+
         return {
           id: city.id,
           type: "Feature",
@@ -49,9 +54,10 @@ map.on("load", function () {
           },
           properties: {
             title: city.name,
-            orgRadius: getRadius(city.suspects, total.suspects, 100),
-            redRadius: getRadius(city.confirmed, total.confirmed, 50),
-            blkRadius: getRadius(city.deaths, total.deaths, 25),
+            orgRadius: suspects,
+            redRadius: confirmed,
+            blkRadius: deaths,
+            biggerRadius: [suspects, confirmed, deaths].sort((a, b) => a - b)[0],
             suspects: city.suspects,
             confirmed: city.confirmed,
             deaths: city.deaths,
@@ -147,7 +153,7 @@ map.on("load", function () {
     source: "points",
     type: "circle",
     paint: {
-      "circle-radius": ["get", "orgRadius"],
+      "circle-radius": ["get", "biggerRadius"],
       "circle-color": "rgba(250, 225, 175, 0)",
       "circle-stroke-color": [
         "case",
