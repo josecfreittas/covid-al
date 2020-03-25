@@ -41,9 +41,13 @@ map.on("load", function () {
       type: "FeatureCollection",
       features: cities.map(city => {
 
-        const suspects = getRadius(city.suspects, total.suspects, 100);
-        const confirmed = getRadius(city.confirmed, total.confirmed, 100);
-        const deaths = getRadius(city.deaths, total.deaths, 100);
+        const radius = {
+          suspects: getRadius(city.suspects, total.suspects, 100),
+          confirmed: getRadius(city.confirmed, total.confirmed, 50),
+          deaths: getRadius(city.deaths, total.deaths, 25),
+        };
+
+        const sortedRadius = [radius.suspects, radius.confirmed, radius.deaths].sort((a, b) => a - b);
 
         return {
           id: city.id,
@@ -54,10 +58,10 @@ map.on("load", function () {
           },
           properties: {
             title: city.name,
-            orgRadius: suspects,
-            redRadius: confirmed,
-            blkRadius: deaths,
-            biggerRadius: [suspects, confirmed, deaths].sort((a, b) => a - b)[0],
+            orgRadius: radius.suspects,
+            redRadius: radius.confirmed,
+            blkRadius: radius.deaths,
+            biggerRadius: sortedRadius[sortedRadius.length - 1],
             suspects: city.suspects,
             confirmed: city.confirmed,
             deaths: city.deaths,
