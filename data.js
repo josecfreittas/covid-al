@@ -7,17 +7,17 @@ cities = [
       -35.731096
     ],
     "suspects": 95,
-    "confirmed": 8,
+    "confirmed": 10,
     "deaths": 0
   },
   {
-    "id": 2,
+    "id": 0,
     "name": "Arapiraca",
     "coordinates": [
       -9.751072,
       -36.661224
     ],
-    "suspects": 4,
+    "suspects": 8,
     "confirmed": 0,
     "deaths": 0
   },

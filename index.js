@@ -190,7 +190,7 @@ map.on("mousemove", "hover-interact", (event) => {
     <h1>${event.features[0].properties.title}</h1>
     <div class="counter suspects">
       <div>Suspeitos:</div>
-      <div>${event.features[0].properties.suspects}</div>
+      <div>~${event.features[0].properties.suspects}</div>
     </div>
     <div class="counter confirmed">
       <div>Confirmados:</div>
