@@ -17,7 +17,7 @@ cities = [
       -9.751072,
       -36.661224
     ],
-    "suspects": 8,
+    "suspects": 16,
     "confirmed": 0,
     "deaths": 0
   },
