@@ -1,7 +1,8 @@
-import { loadMap } from './lib/map.js';
+import { loadMap } from "./lib/map.js";
+import mapboxToken from "./mapboxToken.js";
 
 loadMap({
-  token: "pk.eyJ1Ijoiam9zZWZyZWl0dGFzIiwiYSI6ImNpcm1reHI4czAwY3FmZm02NHR3Z2N4YnEifQ.UQ9qtqcgob5PjZONlhK-zA",
+  token: mapboxToken,
   style: "mapbox://styles/josefreittas/ck840k34g2skg1io71k2t5hkw",
   center: data.center,
   data: data.cities,
