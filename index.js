@@ -13,24 +13,15 @@ const total = {
   }, 0),
 };
 
-const getRadius = (quantity = 0, total = 0, maxSize = 0, minSize = null) => {
-  minSize = minSize ? minSize : maxSize / 10;
-  const result = (quantity * maxSize) / total;
-
-  if (result === 0) {
+const getRadius = (quantity = 0, total = 0, maxSize = 0) => {
+  if (quantity === 0) {
     return 0;
   }
 
-  if (result < minSize) {
-    const increment = result / minSize;
-    return minSize + ((minSize * increment) * 5);
-  }
-
-  if (Number.isNaN(result)) {
-    return 0;
-  }
-
-  return result;
+  const minSize = maxSize / 20;
+  const getBaseLog = (x, y) => Math.log(y) / Math.log(x);
+  const percent = getBaseLog(total + cities.length, (quantity + 1));
+  return (maxSize * percent) + minSize;
 }
 
 mapboxgl.accessToken = "pk.eyJ1Ijoiam9zZWZyZWl0dGFzIiwiYSI6ImNpcm1reHI4czAwY3FmZm02NHR3Z2N4YnEifQ.UQ9qtqcgob5PjZONlhK-zA";
@@ -51,9 +42,9 @@ map.on("load", function () {
       features: cities.map((city, index) => {
 
         const radius = {
-          suspects: getRadius(city.suspects, total.suspects, 100),
+          suspects: getRadius(city.suspects, total.suspects, 75),
           confirmed: getRadius(city.confirmed, total.confirmed, 50),
-          deaths: getRadius(city.deaths, total.deaths, 25),
+          deaths: getRadius(city.deaths, total.deaths, 30),
         };
 
         const sortedRadius = [radius.suspects, radius.confirmed, radius.deaths].sort((a, b) => a - b);
@@ -225,12 +216,7 @@ map.on("mousemove", "hover-interact", (event) => {
     coordinates[0] += event.lngLat.lng > coordinates[0] ? 360 : -360;
   }
 
-  // Populate the popup and set its coordinates
-  // based on the feature found.
-  popup
-    .setLngLat(coordinates)
-    .setHTML(description)
-    .addTo(map);
+  popup.setLngLat(coordinates).setHTML(description).addTo(map);
 
   if (event.features.length > 0) {
     if (pointId) {
