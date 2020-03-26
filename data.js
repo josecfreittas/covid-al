@@ -79,5 +79,70 @@ cities = [
     coordinates: [-10.185278, -36.834924],
     confirmed: 1,
     name: "Porto Real do Colégio",
-  }
+  },
+  {
+    coordinates: [-9.603816, -37.249569],
+    suspects: 2,
+    name: "Monteirópolis",
+  },
+  {
+    coordinates: [-9.532001, -37.295814],
+    suspects: 1,
+    name: "Olho d’Água das Flores",
+  },
+  {
+    coordinates: [-9.162719, -37.359068],
+    suspects: 2,
+    name: "Ouro Branco",
+  },
+  {
+    coordinates: [-9.413621, -36.633998],
+    suspects: 3,
+    name: "Palmeira dos Índios",
+  },
+  {
+    coordinates: [-9.463793, -35.553035],
+    suspects: 1,
+    name: "Paripueira",
+  },
+  {
+    coordinates: [-10.396530, -36.423365],
+    suspects: 1,
+    name: "Piaçabuçu",
+  },
+  {
+    coordinates: [-9.606529, -37.767320],
+    suspects: 1,
+    name: "Piranhas",
+  },
+  {
+    coordinates: [-9.306580, -37.286316],
+    suspects: 4,
+    name: "Poço das Trincheiras",
+  },
+  {
+    coordinates: [-9.503844, -35.818990],
+    suspects: 5,
+    name: "Rio Largo",
+  },
+  {
+    coordinates: [-9.368745, -37.249466],
+    suspects: 4,
+    name: "Santana do Ipanema",
+  },
+  {
+    coordinates: [-9.557613, -37.381718],
+    suspects: 1,
+    name: "São José da Tapera",
+  },
+  {
+    coordinates: [-9.569310, -35.828192],
+    suspects: 1,
+    name: "Satuba",
+  },
+  {
+    coordinates: [-9.908589, -36.365970],
+    suspects: 1,
+    name: "Teotonio Vilela",
+  },
 ];

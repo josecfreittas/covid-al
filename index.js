@@ -58,8 +58,6 @@ map.on("load", function () {
 
         const sortedRadius = [radius.suspects, radius.confirmed, radius.deaths].sort((a, b) => a - b);
 
-        console.log(total.suspects);
-
         return {
           id: index + 1,
           type: "Feature",
