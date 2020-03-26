@@ -73,9 +73,9 @@ map.on("load", function () {
             redRadius: radius.confirmed,
             blkRadius: radius.deaths,
             biggerRadius: sortedRadius[sortedRadius.length - 1],
-            suspects: city.suspects,
-            confirmed: city.confirmed,
-            deaths: city.deaths,
+            suspects: city.suspects ? city.suspects : 0,
+            confirmed: city.confirmed ? city.confirmed : 0,
+            deaths: city.deaths ? city.deaths : 0,
           }
         };
       })
