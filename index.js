@@ -1,10 +1,19 @@
 const total = {
-  suspects: cities.reduce((prev, next) => prev + next.suspects, 0),
-  confirmed: cities.reduce((prev, next) => prev + next.confirmed, 0),
-  deaths: cities.reduce((prev, next) => prev + next.deaths, 0),
+  suspects: cities.reduce((prev, next) => {
+    const newQuantity = next.suspects ? next.suspects : 0;
+    return prev + newQuantity;
+  }, 0),
+  confirmed: cities.reduce((prev, next) => {
+    const newQuantity = next.confirmed ? next.confirmed : 0;
+    return prev + newQuantity;
+  }, 0),
+  deaths: cities.reduce((prev, next) => {
+    const newQuantity = next.deaths ? next.deaths : 0;
+    return prev + newQuantity;
+  }, 0),
 };
 
-const getRadius = (quantity, total, maxSize, minSize = null) => {
+const getRadius = (quantity = 0, total = 0, maxSize = 0, minSize = null) => {
   minSize = minSize ? minSize : maxSize / 10;
   const result = (quantity * maxSize) / total;
 
@@ -39,7 +48,7 @@ map.on("load", function () {
     type: "geojson",
     data: {
       type: "FeatureCollection",
-      features: cities.map(city => {
+      features: cities.map((city, index) => {
 
         const radius = {
           suspects: getRadius(city.suspects, total.suspects, 100),
@@ -49,8 +58,10 @@ map.on("load", function () {
 
         const sortedRadius = [radius.suspects, radius.confirmed, radius.deaths].sort((a, b) => a - b);
 
+        console.log(total.suspects);
+
         return {
-          id: city.id,
+          id: index + 1,
           type: "Feature",
           geometry: {
             type: "Point",
