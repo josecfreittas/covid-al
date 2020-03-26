@@ -45,29 +45,16 @@
   <meta name="theme-color" content="#ffffff">
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js"></script>
-  <link href="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css" rel="stylesheet" />
 </head>
 
 <body>
   <div id="map"></div>
-  <div id="info">
-    <span>Atualizado em 25/03/2020</span>
-    <span> | </span>
-    <span>Fontes: </span>
-    <span> - </span>
-    <a target="_blank"
-      href="https://www.instagram.com/prefeituradearapiraca/">
-      Prefeitura de Arapiraca
-    </a>
-    <span> - </span>
-    <a target="_blank"
-      href="http://www.saude.al.gov.br/2020/03/25/boletim-covid-19-25-03-20-alagoas-tem-11-casos-confirmados/">
-      Governo de Alagoas
-    </a>
-  </div>
+  <div id="info"></div>
+
+  <script src="https://covid-al.info/data.js?query=6"></script>
+  <script src="https://covid-al.info/index.js?query=6" type="module"></script>
   <link href="https://covid-al.info/style.css" rel="stylesheet" />
-  <script src="https://covid-al.info/data.js?query=4"></script>
-  <script src="https://covid-al.info/index.js?query=4"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css" rel="stylesheet" />
 </body>
 
 </html>

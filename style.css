@@ -18,6 +18,11 @@ body {
   left: 0;
   border-top-right-radius: 10px;
   font-size: 13px;
+  color: #353535;
+}
+
+#info a {
+  color: #353535;
 }
 
 .mapboxgl-popup {
