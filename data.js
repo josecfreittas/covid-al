@@ -1,5 +1,5 @@
 const data = {
-  lastUpdate: "27/03/2020",
+  lastUpdate: "28/03/2020",
   sources: [
     {
       title: "Prefeitura de Arapiraca",
@@ -7,19 +7,19 @@ const data = {
     },
     {
       title: "Governo de Alagoas",
-      url: "http://www.saude.al.gov.br/2020/03/25/boletim-covid-19-25-03-20-alagoas-tem-11-casos-confirmados/"
+      url: "http://www.saude.al.gov.br/category/noticias-ve/"
     }
   ],
   center: [-36.680672, -9.574678],
   cities: [
     {
-      confirmed: 11,
+      confirmed: 13,
       suspects: 192,
       name: "Maceió",
       coordinates: [-9.644031, -35.720957],
     },
     {
-      suspects: 29,
+      suspects: 30,
       name: "Arapiraca",
       coordinates: [-9.749389, -36.667732],
     },
