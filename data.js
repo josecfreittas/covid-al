@@ -1,10 +1,6 @@
 const data = {
-  lastUpdate: "29/03/2020",
+  lastUpdate: "30/03/2020",
   sources: [
-    {
-      title: "Prefeitura de Arapiraca",
-      url: "https://www.instagram.com/prefeituradearapiraca/"
-    },
     {
       title: "Governo de Alagoas",
       url: "http://www.saude.al.gov.br/category/noticias-ve/"
@@ -13,12 +9,12 @@ const data = {
   center: [-36.680672, -9.574678],
   cities: [
     {
-      suspects: 2,
+      suspects: 3,
       name: "Barra de Santo Antônio",
       coordinates: [-9.404533, -35.513499],
     },
     {
-      suspects: 1,
+      suspects: 3,
       name: "Barra de São Miguel",
       coordinates: [-9.842640, -35.903430],
     },
@@ -28,12 +24,12 @@ const data = {
       coordinates: [-9.635525, -35.798495],
     },
     {
-      suspects: 2,
+      suspects: 4,
       name: "Flexeiras",
       coordinates: [-9.275353, -35.724899],
     },
     {
-      suspects: 183,
+      suspects: 175,
       confirmed: 16,
       name: "Maceió",
       coordinates: [-9.644031, -35.720957],
@@ -44,7 +40,7 @@ const data = {
       coordinates: [-9.763292, -35.852467],
     },
     {
-      suspects: 5,
+      suspects: 4,
       name: "Rio Largo",
       coordinates: [-9.503844, -35.818990],
     },
@@ -79,11 +75,6 @@ const data = {
       coordinates: [-8.974415, -35.931813],
     },
     {
-      suspects: 1,
-      name: "Murici",
-      coordinates: [-9.310076, -35.942315],
-    },
-    {
       suspects: 2,
       name: "União dos Palmares",
       coordinates: [-9.159061, -36.025219],
@@ -115,6 +106,11 @@ const data = {
     },
     {
       suspects: 1,
+      name: "Penedo",
+      coordinates: [-10.284937, -36.569939],
+    },
+    {
+      suspects: 1,
       name: "Piaçabuçu",
       coordinates: [-10.396530, -36.423365],
     },
@@ -124,7 +120,7 @@ const data = {
       coordinates: [-10.120403, -36.898923],
     },
     {
-      suspects: 19,
+      suspects: 20,
       name: "Arapiraca",
       coordinates: [-9.749389, -36.667732],
     },
@@ -140,16 +136,11 @@ const data = {
     },
     {
       suspects: 1,
-      name: "Limoeiro de Anadia",
-      coordinates: [-9.739527, -36.503312],
-    },
-    {
-      suspects: 1,
-      name: "Olho D'Água Grande",
+      name: "Olho d'Água Grande",
       coordinates: [-10.057884, -36.813196],
     },
     {
-      suspects: 2,
+      suspects: 1,
       name: "Belém",
       coordinates: [-9.570445, -36.493012],
     },
@@ -194,7 +185,12 @@ const data = {
       coordinates: [-9.306580, -37.286316],
     },
     {
-      suspects: 6,
+      suspects: 2,
+      name: "São José da Tapera",
+      coordinates: [-9.557097, -37.381118],
+    },
+    {
+      suspects: 4,
       name: "Santana do Ipanema",
       coordinates: [-9.368745, -37.249466],
     },
