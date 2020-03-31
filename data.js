@@ -1,5 +1,5 @@
 const data = {
-  lastUpdate: "30/03/2020",
+  lastUpdate: "31/03/2020",
   sources: [
     {
       title: "Governo de Alagoas",
@@ -35,6 +35,7 @@ const data = {
     {
       suspects: 175,
       confirmed: 16,
+      deaths: 1,
       name: "Maceió",
       coordinates: [-9.644031, -35.720957],
     },
