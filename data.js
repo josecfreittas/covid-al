@@ -4,6 +4,10 @@ const data = {
     {
       title: "Governo de Alagoas",
       url: "http://www.saude.al.gov.br/category/noticias-ve/"
+    },
+    {
+      title: "Prefeitura de Arapiraca",
+      url: "https://www.instagram.com/stories/prefeituradearapiraca/"
     }
   ],
   center: [-36.680672, -9.574678],
@@ -120,7 +124,7 @@ const data = {
       coordinates: [-10.120403, -36.898923],
     },
     {
-      suspects: 20,
+      suspects: 42,
       name: "Arapiraca",
       coordinates: [-9.749389, -36.667732],
     },
