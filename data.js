@@ -28,29 +28,34 @@ const data = {
       coordinates: [-9.635525, -35.798495],
     },
     {
-      suspects: 4,
+      suspects: 3,
       name: "Flexeiras",
       coordinates: [-9.275353, -35.724899],
     },
     {
-      suspects: 175,
-      confirmed: 16,
+      suspects: 212,
+      confirmed: 17,
       deaths: 1,
       name: "Maceió",
       coordinates: [-9.644031, -35.720957],
     },
     {
-      suspects: 3,
+      suspects: 4,
       name: "Marechal Deodoro",
       coordinates: [-9.763292, -35.852467],
     },
     {
-      suspects: 4,
+      suspects: 1,
+      name: "Pilar",
+      coordinates: [-9.594100, -35.958006],
+    },
+    {
+      suspects: 5,
       name: "Rio Largo",
       coordinates: [-9.503844, -35.818990],
     },
     {
-      suspects: 3,
+      suspects: 1,
       name: "Satuba",
       coordinates: [-9.569310, -35.828192],
     },
@@ -63,6 +68,11 @@ const data = {
       suspects: 5,
       name: "Maragogi",
       coordinates: [-9.010249, -35.224591],
+    },
+    {
+      suspects: 1,
+      name: "Passo de Camaragibe",
+      coordinates: [-9.241514, -35.489603],
     },
     {
       suspects: 1,
@@ -80,7 +90,12 @@ const data = {
       coordinates: [-8.974415, -35.931813],
     },
     {
-      suspects: 2,
+      suspects: 1,
+      name: "Murici",
+      coordinates: [-9.310998, -35.943549],
+    },
+    {
+      suspects: 5,
       name: "União dos Palmares",
       coordinates: [-9.159061, -36.025219],
     },
@@ -90,17 +105,27 @@ const data = {
       coordinates: [-9.396016, -36.156007],
     },
     {
-      suspects: 15,
+      suspects: 2,
+      name: "Quebrangulo",
+      coordinates: [-9.318146, -36.474728],
+    },
+    {
+      suspects: 1,
+      name: "Viçosa",
+      coordinates: [-9.374849, -36.242928],
+    },
+    {
+      suspects: 14,
       name: "Boca da Mata",
       coordinates: [-9.643075, -36.214381],
     },
     {
-      suspects: 8,
+      suspects: 7,
       name: "Campo Alegre",
       coordinates: [-9.781355, -36.351110],
     },
     {
-      suspects: 1,
+      suspects: 2,
       name: "Teotônio Vilela",
       coordinates: [-9.909087, -36.357519],
     },
@@ -110,12 +135,12 @@ const data = {
       coordinates: [-10.011523, -36.024980],
     },
     {
-      suspects: 1,
+      suspects: 2,
       name: "Penedo",
       coordinates: [-10.284937, -36.569939],
     },
     {
-      suspects: 1,
+      suspects: 2,
       name: "Piaçabuçu",
       coordinates: [-10.396530, -36.423365],
     },
@@ -125,7 +150,7 @@ const data = {
       coordinates: [-10.120403, -36.898923],
     },
     {
-      suspects: 42,
+      suspects: 43,
       name: "Arapiraca",
       coordinates: [-9.749389, -36.667732],
     },
@@ -136,8 +161,23 @@ const data = {
     },
     {
       suspects: 1,
+      name: "Batalha",
+      coordinates: [-9.674067, -37.129262],
+    },
+    {
+      suspects: 1,
       name: "Feira Grande",
       coordinates: [-9.899160, -36.677867],
+    },
+    {
+      suspects: 1,
+      name: "Limoeiro de Anadia",
+      coordinates: [-9.737960, -36.502930],
+    },
+    {
+      suspects: 2,
+      name: "Major Isidoro",
+      coordinates: [-9.532043, -36.988249],
     },
     {
       suspects: 1,
@@ -145,7 +185,7 @@ const data = {
       coordinates: [-10.057884, -36.813196],
     },
     {
-      suspects: 1,
+      suspects: 2,
       name: "Belém",
       coordinates: [-9.570445, -36.493012],
     },
@@ -176,7 +216,7 @@ const data = {
     },
     {
       suspects: 2,
-      name: "Olho D'Água das Flores",
+      name: "Olho d'Água das Flores",
       coordinates: [-9.532001, -37.295814],
     },
     {
@@ -195,7 +235,7 @@ const data = {
       coordinates: [-9.557097, -37.381118],
     },
     {
-      suspects: 4,
+      suspects: 6,
       name: "Santana do Ipanema",
       coordinates: [-9.368745, -37.249466],
     },
