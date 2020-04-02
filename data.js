@@ -1,5 +1,5 @@
 const data = {
-  lastUpdate: "31/03/2020",
+  lastUpdate: "01/04/2020",
   sources: [
     {
       title: "Governo de Alagoas",
@@ -33,7 +33,7 @@ const data = {
       coordinates: [-9.275353, -35.724899],
     },
     {
-      suspects: 212,
+      suspects: 216,
       confirmed: 17,
       deaths: 1,
       name: "Maceió",
@@ -75,7 +75,7 @@ const data = {
       coordinates: [-9.241514, -35.489603],
     },
     {
-      suspects: 1,
+      suspects: 2,
       name: "São Luís do Quitunde",
       coordinates: [-9.315124, -35.565010],
     },
@@ -90,11 +90,6 @@ const data = {
       coordinates: [-8.974415, -35.931813],
     },
     {
-      suspects: 1,
-      name: "Murici",
-      coordinates: [-9.310998, -35.943549],
-    },
-    {
       suspects: 5,
       name: "União dos Palmares",
       coordinates: [-9.159061, -36.025219],
@@ -105,7 +100,7 @@ const data = {
       coordinates: [-9.396016, -36.156007],
     },
     {
-      suspects: 2,
+      suspects: 3,
       name: "Quebrangulo",
       coordinates: [-9.318146, -36.474728],
     },
@@ -115,7 +110,7 @@ const data = {
       coordinates: [-9.374849, -36.242928],
     },
     {
-      suspects: 14,
+      suspects: 13,
       name: "Boca da Mata",
       coordinates: [-9.643075, -36.214381],
     },
@@ -125,9 +120,9 @@ const data = {
       coordinates: [-9.781355, -36.351110],
     },
     {
-      suspects: 2,
-      name: "Teotônio Vilela",
-      coordinates: [-9.909087, -36.357519],
+      suspects: 1,
+      name: "Coruripe",
+      coordinates: [-10.123304, -36.176252],
     },
     {
       suspects: 2,
@@ -150,7 +145,7 @@ const data = {
       coordinates: [-10.120403, -36.898923],
     },
     {
-      suspects: 43,
+      suspects: 57,
       name: "Arapiraca",
       coordinates: [-9.749389, -36.667732],
     },
@@ -158,6 +153,11 @@ const data = {
       suspects: 1,
       name: "Craíbas",
       coordinates: [-9.617434, -36.767749],
+    },
+    {
+      suspects: 1,
+      name: "Coité do Noia",
+      coordinates: [-9.633972, -36.580721],
     },
     {
       suspects: 1,
@@ -171,11 +171,6 @@ const data = {
     },
     {
       suspects: 1,
-      name: "Limoeiro de Anadia",
-      coordinates: [-9.737960, -36.502930],
-    },
-    {
-      suspects: 2,
       name: "Major Isidoro",
       coordinates: [-9.532043, -36.988249],
     },
@@ -185,7 +180,7 @@ const data = {
       coordinates: [-10.057884, -36.813196],
     },
     {
-      suspects: 2,
+      suspects: 1,
       name: "Belém",
       coordinates: [-9.570445, -36.493012],
     },
@@ -200,7 +195,7 @@ const data = {
       coordinates: [-9.577329, -36.307092],
     },
     {
-      suspects: 3,
+      suspects: 4,
       name: "Palmeira dos Índios",
       coordinates: [-9.413621, -36.633998],
     },
@@ -235,7 +230,7 @@ const data = {
       coordinates: [-9.557097, -37.381118],
     },
     {
-      suspects: 6,
+      suspects: 5,
       name: "Santana do Ipanema",
       coordinates: [-9.368745, -37.249466],
     },
@@ -256,8 +251,8 @@ const data = {
     },
     {
       confirmed: 1,
-      coordinates: [-10.185278, -36.834924],
       name: "Porto Real do Colégio",
+      coordinates: [-10.185278, -36.834924],
     },
   ],
 };
