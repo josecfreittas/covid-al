@@ -1,5 +1,5 @@
 const data = {
-  lastUpdate: "02/04/2020",
+  lastUpdate: "03/04/2020",
   sources: [
     {
       title: "Governo de Alagoas",
