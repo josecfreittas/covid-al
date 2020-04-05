@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020",
+  "lastUpdate": "05/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -25,14 +25,6 @@
     },
     {
       "suspects": 1,
-      "name": "Barra de São Miguel",
-      "coordinates": [
-        -9.842640,
-        -35.903430
-      ]
-    },
-    {
-      "suspects": 1,
       "name": "Coqueiro Seco",
       "coordinates": [
         -9.635525,
@@ -40,7 +32,7 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 2,
       "name": "Flexeiras",
       "coordinates": [
         -9.275353,
@@ -48,8 +40,8 @@
       ]
     },
     {
-      "suspects": 214,
-      "confirmed": 21,
+      "suspects": 213,
+      "confirmed": 25,
       "deaths": 2,
       "name": "Maceió",
       "coordinates": [
@@ -59,11 +51,19 @@
     },
     {
       "suspects": 3,
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
         -35.852467
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "Pilar",
+      "coordinates": [
+        -9.595068,
+        -35.958805
       ]
     },
     {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "suspects": 4,
+      "suspects": 3,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -100,10 +100,26 @@
     },
     {
       "suspects": 1,
+      "name": "Passo de Camaragibe",
+      "coordinates": [
+        -9.241992,
+        -35.490993
+      ]
+    },
+    {
+      "suspects": 2,
       "name": "Colônia Leopoldina",
       "coordinates": [
         -8.912571,
         -35.722496
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "Novo Lino",
+      "coordinates": [
+        -8.942868,
+        -35.664995
       ]
     },
     {
@@ -123,7 +139,7 @@
       ]
     },
     {
-      "suspects": 1,
+      "suspects": 2,
       "name": "Viçosa",
       "coordinates": [
         -9.374849,
@@ -152,14 +168,6 @@
       "coordinates": [
         -10.011523,
         -36.024980
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Piaçabuçu",
-      "coordinates": [
-        -10.396530,
-        -36.423365
       ]
     },
     {
@@ -211,7 +219,7 @@
       ]
     },
     {
-      "suspects": 2,
+      "suspects": 3,
       "name": "Taquarana",
       "coordinates": [
         -9.645926,
