@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020",
+  "lastUpdate": "04/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "suspects": 208,
+      "suspects": 214,
       "confirmed": 21,
       "deaths": 2,
       "name": "Maceió",
@@ -64,14 +64,6 @@
       "coordinates": [
         -9.763292,
         -35.852467
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Pilar",
-      "coordinates": [
-        -9.594100,
-        -35.958006
       ]
     },
     {
@@ -115,7 +107,7 @@
       ]
     },
     {
-      "suspects": 4,
+      "suspects": 2,
       "name": "União dos Palmares",
       "coordinates": [
         -9.159061,
@@ -128,14 +120,6 @@
       "coordinates": [
         -9.396016,
         -36.156007
-      ]
-    },
-    {
-      "suspects": 3,
-      "name": "Quebrangulo",
-      "coordinates": [
-        -9.318146,
-        -36.474728
       ]
     },
     {
@@ -171,15 +155,7 @@
       ]
     },
     {
-      "suspects": 2,
-      "name": "Penedo",
-      "coordinates": [
-        -10.284937,
-        -36.569939
-      ]
-    },
-    {
-      "suspects": 2,
+      "suspects": 1,
       "name": "Piaçabuçu",
       "coordinates": [
         -10.396530,
@@ -228,18 +204,18 @@
     },
     {
       "suspects": 1,
-      "name": "Major Isidoro",
-      "coordinates": [
-        -9.532043,
-        -36.988249
-      ]
-    },
-    {
-      "suspects": 1,
       "name": "Olho d'Água Grande",
       "coordinates": [
         -10.057884,
         -36.813196
+      ]
+    },
+    {
+      "suspects": 2,
+      "name": "Taquarana",
+      "coordinates": [
+        -9.645926,
+        -36.495262
       ]
     },
     {
