@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020",
+  "lastUpdate": "07/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "suspects": 208,
-      "confirmed": 27,
+      "suspects": 196,
+      "confirmed": 30,
       "deaths": 2,
       "name": "Maceió",
       "coordinates": [
@@ -58,20 +58,12 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 2,
       "confirmed": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
         -35.852467
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Pilar",
-      "coordinates": [
-        -9.595068,
-        -35.958805
       ]
     },
     {
@@ -123,7 +115,7 @@
       ]
     },
     {
-      "suspects": 2,
+      "suspects": 3,
       "name": "União dos Palmares",
       "coordinates": [
         -9.159061,
@@ -179,7 +171,7 @@
       ]
     },
     {
-      "suspects": 71,
+      "suspects": 74,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -219,7 +211,7 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 2,
       "name": "Taquarana",
       "coordinates": [
         -9.645926,
@@ -292,7 +284,7 @@
       ]
     },
     {
-      "suspects": 2,
+      "suspects": 3,
       "name": "São José da Tapera",
       "coordinates": [
         -9.557097,
