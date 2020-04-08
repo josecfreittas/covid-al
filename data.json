@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020",
+  "lastUpdate": "08/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -48,9 +48,9 @@
       ]
     },
     {
-      "suspects": 196,
-      "confirmed": 30,
-      "deaths": 2,
+      "suspects": 161,
+      "confirmed": 33,
+      "deaths": 3,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -104,6 +104,14 @@
       "coordinates": [
         -8.912571,
         -35.722496
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "Joaquim Gomes",
+      "coordinates": [
+        -9.136094,
+        -35.754113
       ]
     },
     {
@@ -284,7 +292,7 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 2,
       "name": "São José da Tapera",
       "coordinates": [
         -9.557097,
