@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020",
+  "lastUpdate": "09/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "suspects": 1,
+      "suspects": 2,
       "name": "Barra de São Miguel",
       "coordinates": [
         -9.832801,
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "suspects": 161,
+      "suspects": 176,
       "confirmed": 33,
       "deaths": 3,
       "name": "Maceió",
@@ -123,6 +123,14 @@
       ]
     },
     {
+      "suspects": 1,
+      "name": "Santana do Mundaú",
+      "coordinates": [
+        -9.167623,
+        -36.226282
+      ]
+    },
+    {
       "suspects": 3,
       "name": "União dos Palmares",
       "coordinates": [
@@ -179,7 +187,7 @@
       ]
     },
     {
-      "suspects": 74,
+      "suspects": 90,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -219,6 +227,14 @@
       ]
     },
     {
+      "suspects": 1,
+      "name": "São Sebastião",
+      "coordinates": [
+        -9.949238,
+        -36.549158
+      ]
+    },
+    {
       "suspects": 2,
       "name": "Taquarana",
       "coordinates": [
@@ -243,7 +259,7 @@
       ]
     },
     {
-      "suspects": 2,
+      "suspects": 3,
       "confirmed": 1,
       "name": "Palmeira dos Índios",
       "coordinates": [
