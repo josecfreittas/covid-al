@@ -48,8 +48,8 @@
       ]
     },
     {
-      "suspects": 179,
-      "confirmed": 41,
+      "suspects": 206,
+      "confirmed": 44,
       "deaths": 3,
       "name": "Maceió",
       "coordinates": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "suspects": 2,
+      "suspects": 3,
       "confirmed": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 2,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "suspects": 4,
+      "suspects": 5,
       "name": "Maragogi",
       "coordinates": [
         -9.010249,
@@ -100,10 +100,26 @@
     },
     {
       "suspects": 1,
+      "name": "Passo de Camaragibe",
+      "coordinates": [
+        -9.241863,
+        -35.490059
+      ]
+    },
+    {
+      "suspects": 1,
       "name": "Colônia Leopoldina",
       "coordinates": [
         -8.912571,
         -35.722496
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "Murici",
+      "coordinates": [
+        -9.311252,
+        -35.942348
       ]
     },
     {
@@ -120,6 +136,14 @@
       "coordinates": [
         -9.167623,
         -36.226282
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "São José da Laje",
+      "coordinates": [
+        -9.008429,
+        -36.057826
       ]
     },
     {
@@ -152,6 +176,14 @@
       "coordinates": [
         -9.781355,
         -36.351110
+      ]
+    },
+    {
+      "suspects": 1,
+      "name": "São Miguel dos Campos",
+      "coordinates": [
+        -9.782302,
+        -36.101653
       ]
     },
     {
@@ -252,7 +284,7 @@
       ]
     },
     {
-      "suspects": 3,
+      "suspects": 1,
       "name": "Maravilha",
       "coordinates": [
         -9.230914,
@@ -305,14 +337,6 @@
       "coordinates": [
         -9.368745,
         -37.249466
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Mata Grande",
-      "coordinates": [
-        -9.118287,
-        -37.730786
       ]
     },
     {
