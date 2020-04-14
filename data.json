@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020",
+  "lastUpdate": "14/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -49,8 +49,8 @@
     },
     {
       "suspects": 206,
-      "confirmed": 44,
-      "deaths": 3,
+      "confirmed": 66,
+      "deaths": 4,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -59,7 +59,7 @@
     },
     {
       "suspects": 3,
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
@@ -76,6 +76,7 @@
     },
     {
       "suspects": 2,
+      "confirmed": 1,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -203,7 +204,7 @@
       ]
     },
     {
-      "suspects": 90,
+      "suspects": 110,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
