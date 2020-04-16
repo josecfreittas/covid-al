@@ -1,55 +1,19 @@
 {
-  "lastUpdate": "14/04/2020",
+  "lastUpdate": "15/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
       "url": "http://www.saude.al.gov.br/category/noticias-ve/"
-    },
-    {
-      "title": "Prefeitura de Arapiraca",
-      "url": "https://www.instagram.com/stories/prefeituradearapiraca/"
     }
   ],
   "center": [
     -36.680672,
     -9.574678
   ],
+  "suspects": 290,
   "cities": [
     {
-      "suspects": 3,
-      "name": "Barra de Santo Antônio",
-      "coordinates": [
-        -9.404533,
-        -35.513499
-      ]
-    },
-    {
-      "suspects": 3,
-      "name": "Barra de São Miguel",
-      "coordinates": [
-        -9.832801,
-        -35.888285
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Coqueiro Seco",
-      "coordinates": [
-        -9.635525,
-        -35.798495
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Flexeiras",
-      "coordinates": [
-        -9.275353,
-        -35.724899
-      ]
-    },
-    {
-      "suspects": 206,
-      "confirmed": 66,
+      "confirmed": 74,
       "deaths": 4,
       "name": "Maceió",
       "coordinates": [
@@ -58,8 +22,8 @@
       ]
     },
     {
-      "suspects": 3,
       "confirmed": 3,
+      "deaths": 1,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
@@ -67,7 +31,7 @@
       ]
     },
     {
-      "suspects": 5,
+      "confirmed": 2,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -75,277 +39,11 @@
       ]
     },
     {
-      "suspects": 2,
       "confirmed": 1,
-      "name": "Satuba",
-      "coordinates": [
-        -9.569310,
-        -35.828192
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Jacuípe",
-      "coordinates": [
-        -8.840652,
-        -35.460810
-      ]
-    },
-    {
-      "suspects": 5,
-      "name": "Maragogi",
-      "coordinates": [
-        -9.010249,
-        -35.224591
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Passo de Camaragibe",
-      "coordinates": [
-        -9.241863,
-        -35.490059
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Colônia Leopoldina",
-      "coordinates": [
-        -8.912571,
-        -35.722496
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Murici",
-      "coordinates": [
-        -9.311252,
-        -35.942348
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Novo Lino",
-      "coordinates": [
-        -8.942868,
-        -35.664995
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Santana do Mundaú",
-      "coordinates": [
-        -9.167623,
-        -36.226282
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "São José da Laje",
-      "coordinates": [
-        -9.008429,
-        -36.057826
-      ]
-    },
-    {
-      "suspects": 3,
-      "name": "União dos Palmares",
-      "coordinates": [
-        -9.159061,
-        -36.025219
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Cajueiro",
-      "coordinates": [
-        -9.396016,
-        -36.156007
-      ]
-    },
-    {
-      "suspects": 12,
       "name": "Boca da Mata",
       "coordinates": [
         -9.643075,
         -36.214381
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Campo Alegre",
-      "coordinates": [
-        -9.781355,
-        -36.351110
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "São Miguel dos Campos",
-      "coordinates": [
-        -9.782302,
-        -36.101653
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Jequiá da Praia",
-      "coordinates": [
-        -10.011523,
-        -36.024980
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "São Brás",
-      "coordinates": [
-        -10.120403,
-        -36.898923
-      ]
-    },
-    {
-      "suspects": 110,
-      "name": "Arapiraca",
-      "coordinates": [
-        -9.749389,
-        -36.667732
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Coité do Noia",
-      "coordinates": [
-        -9.633972,
-        -36.580721
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Batalha",
-      "coordinates": [
-        -9.674067,
-        -37.129262
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Feira Grande",
-      "coordinates": [
-        -9.899160,
-        -36.677867
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Olho d'Água Grande",
-      "coordinates": [
-        -10.057884,
-        -36.813196
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "São Sebastião",
-      "coordinates": [
-        -9.949238,
-        -36.549158
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Taquarana",
-      "coordinates": [
-        -9.645926,
-        -36.495262
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Igaci",
-      "coordinates": [
-        -9.537429,
-        -36.630650
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Maribondo",
-      "coordinates": [
-        -9.577329,
-        -36.307092
-      ]
-    },
-    {
-      "suspects": 2,
-      "confirmed": 1,
-      "name": "Palmeira dos Índios",
-      "coordinates": [
-        -9.413621,
-        -36.633998
-      ]
-    },
-    {
-      "suspects": 1,
-      "name": "Maravilha",
-      "coordinates": [
-        -9.230914,
-        -37.350396
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Monteirópolis",
-      "coordinates": [
-        -9.603816,
-        -37.249569
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Olho d'Água das Flores",
-      "coordinates": [
-        -9.532001,
-        -37.295814
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Ouro Branco",
-      "coordinates": [
-        -9.162719,
-        -37.359068
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Poço das Trincheiras",
-      "coordinates": [
-        -9.306580,
-        -37.286316
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "São José da Tapera",
-      "coordinates": [
-        -9.557097,
-        -37.381118
-      ]
-    },
-    {
-      "suspects": 4,
-      "name": "Santana do Ipanema",
-      "coordinates": [
-        -9.368745,
-        -37.249466
-      ]
-    },
-    {
-      "suspects": 2,
-      "name": "Piranhas",
-      "coordinates": [
-        -9.606529,
-        -37.767320
       ]
     },
     {
@@ -354,6 +52,29 @@
       "coordinates": [
         -10.185278,
         -36.834924
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Palmeira dos Índios",
+      "coordinates": [
+        -9.413621,
+        -36.633998
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Satuba",
+      "coordinates": [
+        -9.569310,
+        -35.828192
+      ]
+    },
+    {
+      "name": "Arapiraca",
+      "coordinates": [
+        -9.749389,
+        -36.667732
       ]
     }
   ]
