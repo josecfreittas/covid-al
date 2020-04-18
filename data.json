@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/04/2020",
+  "lastUpdate": "18/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -10,11 +10,11 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 290,
-  "recovered": 24,
+  "suspects": 294,
+  "recovered": 27,
   "cities": [
     {
-      "confirmed": 74,
+      "confirmed": 115,
       "deaths": 4,
       "name": "Maceió",
       "coordinates": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 1,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 4,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -72,10 +72,35 @@
       ]
     },
     {
+      "confirmed": 1,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
         -36.667732
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "União dos Palmares",
+      "coordinates": [
+        -9.157589,
+        -36.026470
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Viçosa",
+      "coordinates": [
+        -9.381904,
+        -36.242146
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "São Miguel dos Milagres",
+      "coordinates": [
+        -9.267430,
+        -35.374536
       ]
     }
   ]
