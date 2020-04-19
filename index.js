@@ -3,7 +3,7 @@ import mapboxToken from "./mapboxToken.js";
 
 const start = async () => {
 
-  const data = await fetch('./data.json?query=5').then(data => data.json());
+  const data = await fetch('./data.json?query=6').then(data => data.json());
 
   loadMap({
     token: mapboxToken,
