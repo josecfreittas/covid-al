@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020",
+  "lastUpdate": "20/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -10,12 +10,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 294,
-  "recovered": 27,
+  "suspects": 278,
+  "recovered": 30,
   "cities": [
     {
-      "confirmed": 115,
-      "deaths": 6,
+      "confirmed": 148,
+      "deaths": 14,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 6,
       "deaths": 1,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 5,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -41,10 +41,10 @@
     },
     {
       "confirmed": 1,
-      "name": "Boca da Mata",
+      "name": "Murici",
       "coordinates": [
-        -9.643075,
-        -36.214381
+        -9.310606,
+        -35.942852
       ]
     },
     {
@@ -73,14 +73,6 @@
     },
     {
       "confirmed": 1,
-      "name": "Arapiraca",
-      "coordinates": [
-        -9.749389,
-        -36.667732
-      ]
-    },
-    {
-      "confirmed": 1,
       "name": "União dos Palmares",
       "coordinates": [
         -9.157589,
@@ -89,6 +81,24 @@
     },
     {
       "confirmed": 1,
+      "deaths": 1,
+      "name": "São Miguel dos Milagres",
+      "coordinates": [
+        -9.267430,
+        -35.374536
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Arapiraca",
+      "coordinates": [
+        -9.749389,
+        -36.667732
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
       "name": "Viçosa",
       "coordinates": [
         -9.381904,
@@ -97,10 +107,27 @@
     },
     {
       "confirmed": 1,
-      "name": "São Miguel dos Milagres",
+      "deaths": 1,
+      "name": "Ibateguara",
       "coordinates": [
-        -9.267430,
-        -35.374536
+        -8.973906,
+        -35.931727
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Boca da Mata",
+      "coordinates": [
+        -9.643075,
+        -36.214381
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Pilar",
+      "coordinates": [
+        -9.596665,
+        -35.959264
       ]
     }
   ]
