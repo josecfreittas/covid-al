@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/04/2020",
+  "lastUpdate": "22/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 281,
-  "recovered": 73,
+  "suspects": 332,
+  "recovered": 74,
   "cities": [
     {
-      "confirmed": 184,
-      "deaths": 14,
+      "confirmed": 213,
+      "deaths": 16,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
