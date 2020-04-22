@@ -1,20 +1,24 @@
 {
-  "lastUpdate": "20/04/2020",
+  "lastUpdate": "21/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
       "url": "http://www.saude.al.gov.br/category/noticias-ve/"
+    },
+    {
+      "title": "Prefeitura de Arapiraca",
+      "url": "https://www.instagram.com/prefeituradearapiraca/"
     }
   ],
   "center": [
     -36.680672,
     -9.574678
   ],
-  "suspects": 278,
-  "recovered": 30,
+  "suspects": 281,
+  "recovered": 73,
   "cities": [
     {
-      "confirmed": 148,
+      "confirmed": 184,
       "deaths": 14,
       "name": "Maceió",
       "coordinates": [
@@ -56,7 +60,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -89,7 +93,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -123,11 +127,27 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
         -35.959264
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Capela",
+      "coordinates": [
+        -9.406886,
+        -36.086930
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Maribondo",
+      "coordinates": [
+        -9.577262,
+        -36.306403
       ]
     }
   ]
