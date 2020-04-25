@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020",
+  "lastUpdate": "24/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 332,
-  "recovered": 74,
+  "suspects": 219,
+  "recovered": 78,
   "cities": [
     {
-      "confirmed": 213,
-      "deaths": 16,
+      "confirmed": 364,
+      "deaths": 20,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "confirmed": 6,
+      "confirmed": 9,
       "deaths": 1,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 7,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 3,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 4,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -148,6 +148,81 @@
       "coordinates": [
         -9.577262,
         -36.306403
+      ]
+    },
+    {
+      "confirmed": 2,
+      "name": "Piaçabuçu",
+      "coordinates": [
+        -10.400158,
+        -36.423158
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Limoeiro de Anadia",
+      "coordinates": [
+        -9.737451,
+        -36.501215
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Barra de Santo Antônio",
+      "coordinates": [
+        -9.405385,
+        -35.513952
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Anadia",
+      "coordinates": [
+        -9.685748,
+        -36.307863
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Paripueira",
+      "coordinates": [
+        -9.466286,
+        -35.553622
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "São Miguel dos Campos",
+      "coordinates": [
+        -9.781136,
+        -36.102060
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Santa Luzia do Norte",
+      "coordinates": [
+        -9.603225,
+        -35.823870
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Maragogi",
+      "coordinates": [
+        -9.010856,
+        -35.222147
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Delmiro Gouveia",
+      "coordinates": [
+        -9.384701,
+        -38.000464
       ]
     }
   ]
