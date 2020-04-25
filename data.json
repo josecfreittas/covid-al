@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020",
+  "lastUpdate": "25/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -18,7 +18,7 @@
   "recovered": 78,
   "cities": [
     {
-      "confirmed": 364,
+      "confirmed": 436,
       "deaths": 20,
       "name": "Maceió",
       "coordinates": [
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "confirmed": 9,
-      "deaths": 1,
+      "confirmed": 12,
+      "deaths": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 7,
+      "confirmed": 8,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 7,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 6,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -143,7 +143,8 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
+      "deaths": 1,
       "name": "Maribondo",
       "coordinates": [
         -9.577262,
@@ -223,6 +224,30 @@
       "coordinates": [
         -9.384701,
         -38.000464
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "São Sebastião",
+      "coordinates": [
+        -9.932608,
+        -36.555176
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Olho d'Agua das Flores",
+      "coordinates": [
+        -9.532625,
+        -37.295919
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Porto Calvo",
+      "coordinates": [
+        -9.057054,
+        -35.397332
       ]
     }
   ]
