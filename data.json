@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020",
+  "lastUpdate": "26/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 219,
-  "recovered": 78,
+  "suspects": 427,
+  "recovered": 90,
   "cities": [
     {
-      "confirmed": 436,
-      "deaths": 20,
+      "confirmed": 482,
+      "deaths": 22,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 8,
+      "confirmed": 10,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 7,
+      "confirmed": 13,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 5,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 7,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Maragogi",
       "coordinates": [
         -9.010856,
@@ -248,6 +248,23 @@
       "coordinates": [
         -9.057054,
         -35.397332
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Atalaia",
+      "coordinates": [
+        -9.512066,
+        -36.006963
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Matriz do Camaragibe",
+      "coordinates": [
+        -9.155848,
+        -35.530689
       ]
     }
   ]
