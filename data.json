@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020",
+  "lastUpdate": "29/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 427,
-  "recovered": 90,
+  "suspects": 398,
+  "recovered": 107,
   "cities": [
     {
-      "confirmed": 482,
-      "deaths": 22,
+      "confirmed": 802,
+      "deaths": 28,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "confirmed": 12,
+      "confirmed": 24,
       "deaths": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 10,
+      "confirmed": 26,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,8 @@
       ]
     },
     {
-      "confirmed": 13,
+      "confirmed": 18,
+      "deaths": 1,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -60,7 +61,7 @@
       ]
     },
     {
-      "confirmed": 6,
+      "confirmed": 7,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -68,7 +69,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 10,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -76,7 +77,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 5,
       "name": "União dos Palmares",
       "coordinates": [
         -9.157589,
@@ -84,7 +85,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 1,
       "name": "São Miguel dos Milagres",
       "coordinates": [
@@ -93,7 +94,7 @@
       ]
     },
     {
-      "confirmed": 7,
+      "confirmed": 18,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -127,7 +128,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 4,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
@@ -195,7 +196,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 5,
       "name": "São Miguel dos Campos",
       "coordinates": [
         -9.781136,
@@ -203,7 +204,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 4,
       "name": "Santa Luzia do Norte",
       "coordinates": [
         -9.603225,
@@ -211,7 +212,8 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 5,
+      "deaths": 1,
       "name": "Maragogi",
       "coordinates": [
         -9.010856,
@@ -243,7 +245,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Porto Calvo",
       "coordinates": [
         -9.057054,
@@ -265,6 +267,79 @@
       "coordinates": [
         -9.155848,
         -35.530689
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Barra de São Miguel",
+      "coordinates": [
+        -9.827261,
+        -35.893595
+      ]
+    },
+    {
+      "confirmed": 2,
+      "name": "Coruripe",
+      "coordinates": [
+        -10.124291,
+        -36.176845
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Lagoa da Canoa",
+      "coordinates": [
+        -9.829534,
+        -36.738075
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Junqueiro",
+      "coordinates": [
+        -9.918161,
+        -36.474489
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Batalha",
+      "coordinates": [
+        -9.673687,
+        -37.131537
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Branquinha",
+      "coordinates": [
+        -9.245874,
+        -36.014897
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Palestina",
+      "coordinates": [
+        -9.673282,
+        -37.329733
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Penedo",
+      "coordinates": [
+        -10.281988,
+        -36.561173
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Paulo Jacinto",
+      "coordinates": [
+        -9.371743,
+        -36.375952
       ]
     }
   ]
