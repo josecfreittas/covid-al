@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020",
+  "lastUpdate": "01/05/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 518,
-  "recovered": 238,
+  "suspects": 812,
+  "recovered": 239,
   "cities": [
     {
-      "confirmed": 864,
-      "deaths": 34,
+      "confirmed": 1019,
+      "deaths": 40,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "confirmed": 30,
+      "confirmed": 33,
       "deaths": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 24,
+      "confirmed": 27,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "confirmed": 11,
+      "confirmed": 12,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "confirmed": 12,
+      "confirmed": 17,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "confirmed": 18,
+      "confirmed": 21,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 5,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Capela",
       "coordinates": [
         -9.406886,
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 4,
       "name": "São Sebastião",
       "coordinates": [
         -9.932608,
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 6,
       "name": "Junqueiro",
       "coordinates": [
         -9.918161,
@@ -356,6 +356,38 @@
       "coordinates": [
         -8.943207,
         -35.665166
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Campo Alegre",
+      "coordinates": [
+        -9.785490,
+        -36.339941
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Colônia Leopoldina",
+      "coordinates": [
+        -8.916113,
+        -35.720615
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Joaquim Gomes",
+      "coordinates": [
+        -9.135441,
+        -35.755239
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Santana do Ipanema",
+      "coordinates": [
+        -9.373430,
+        -37.248167
       ]
     }
   ]
