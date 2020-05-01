@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020",
+  "lastUpdate": "30/04/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 398,
-  "recovered": 107,
+  "suspects": 518,
+  "recovered": 238,
   "cities": [
     {
-      "confirmed": 802,
-      "deaths": 28,
+      "confirmed": 864,
+      "deaths": 34,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "confirmed": 24,
+      "confirmed": 30,
       "deaths": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 26,
+      "confirmed": 24,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 18,
+      "confirmed": 20,
       "deaths": 1,
       "name": "Murici",
       "coordinates": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "confirmed": 7,
+      "confirmed": 11,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "confirmed": 10,
+      "confirmed": 12,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 5,
       "name": "Santa Luzia do Norte",
       "coordinates": [
         -9.603225,
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 3,
       "name": "São Sebastião",
       "coordinates": [
         -9.932608,
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 4,
       "name": "Barra de São Miguel",
       "coordinates": [
         -9.827261,
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Junqueiro",
       "coordinates": [
         -9.918161,
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Batalha",
       "coordinates": [
         -9.673687,
@@ -340,6 +340,22 @@
       "coordinates": [
         -9.371743,
         -36.375952
+      ]
+    },
+    {
+      "confirmed": 2,
+      "name": "Taquarana",
+      "coordinates": [
+        -9.646502,
+        -36.495052
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Novo Lino",
+      "coordinates": [
+        -8.943207,
+        -35.665166
       ]
     }
   ]
