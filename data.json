@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020",
+  "lastUpdate": "02/05/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,11 +14,11 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 812,
+  "suspects": 800,
   "recovered": 239,
   "cities": [
     {
-      "confirmed": 1019,
+      "confirmed": 1135,
       "deaths": 40,
       "name": "Maceió",
       "coordinates": [
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "confirmed": 33,
+      "confirmed": 36,
       "deaths": 2,
       "name": "Marechal Deodoro",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 27,
+      "confirmed": 30,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 20,
+      "confirmed": 23,
       "deaths": 1,
       "name": "Murici",
       "coordinates": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "confirmed": 12,
+      "confirmed": 14,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 10,
       "name": "União dos Palmares",
       "coordinates": [
         -9.157589,
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "confirmed": 21,
+      "confirmed": 23,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 4,
       "name": "Piaçabuçu",
       "coordinates": [
         -10.400158,
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Coruripe",
       "coordinates": [
         -10.124291,
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Taquarana",
       "coordinates": [
         -9.646502,
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Campo Alegre",
       "coordinates": [
         -9.785490,
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 3,
       "name": "Joaquim Gomes",
       "coordinates": [
         -9.135441,
@@ -388,6 +388,38 @@
       "coordinates": [
         -9.373430,
         -37.248167
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Teotônio Vilela",
+      "coordinates": [
+        -9.910270,
+        -36.360659
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Jaramataia",
+      "coordinates": [
+        -9.660850,
+        -37.004292
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Jequiá da Praia",
+      "coordinates": [
+        -10.011100,
+        -36.025293
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Coqueiro Seco",
+      "coordinates": [
+        -9.638898,
+        -35.800356
       ]
     }
   ]
