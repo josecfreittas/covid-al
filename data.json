@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020",
+  "lastUpdate": "03/05/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,11 +14,11 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 800,
-  "recovered": 239,
+  "suspects": 875,
+  "recovered": 292,
   "cities": [
     {
-      "confirmed": 1135,
+      "confirmed": 1190,
       "deaths": 40,
       "name": "Maceió",
       "coordinates": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "confirmed": 30,
+      "confirmed": 31,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "confirmed": 23,
+      "confirmed": 25,
       "deaths": 1,
       "name": "Murici",
       "coordinates": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "confirmed": 14,
+      "confirmed": 16,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "confirmed": 17,
+      "confirmed": 19,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -94,7 +94,8 @@
       ]
     },
     {
-      "confirmed": 23,
+      "confirmed": 25,
+      "deaths": 1,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -187,7 +188,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 1,
       "name": "Paripueira",
       "coordinates": [
@@ -212,7 +213,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 9,
       "deaths": 1,
       "name": "Maragogi",
       "coordinates": [
@@ -270,7 +271,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 5,
       "name": "Barra de São Miguel",
       "coordinates": [
         -9.827261,
@@ -359,7 +360,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Campo Alegre",
       "coordinates": [
         -9.785490,
