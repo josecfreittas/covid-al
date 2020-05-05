@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020",
+  "lastUpdate": "04/05/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 875,
-  "recovered": 292,
+  "suspects": 838,
+  "recovered": 356,
   "cities": [
     {
-      "confirmed": 1190,
-      "deaths": 40,
+      "confirmed": 1260,
+      "deaths": 50,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -36,7 +36,8 @@
       ]
     },
     {
-      "confirmed": 31,
+      "confirmed": 32,
+      "deaths": 1,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -61,7 +62,7 @@
       ]
     },
     {
-      "confirmed": 16,
+      "confirmed": 18,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -77,7 +78,8 @@
       ]
     },
     {
-      "confirmed": 10,
+      "confirmed": 11,
+      "deaths": 1,
       "name": "União dos Palmares",
       "coordinates": [
         -9.157589,
@@ -94,8 +96,8 @@
       ]
     },
     {
-      "confirmed": 25,
-      "deaths": 1,
+      "confirmed": 27,
+      "deaths": 3,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -121,7 +123,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Boca da Mata",
       "coordinates": [
         -9.643075,
@@ -129,7 +131,8 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 9,
+      "deaths": 1,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
@@ -189,7 +192,7 @@
     },
     {
       "confirmed": 2,
-      "deaths": 1,
+      "deaths": 2,
       "name": "Paripueira",
       "coordinates": [
         -9.466286,
@@ -197,7 +200,8 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 6,
+      "deaths": 1,
       "name": "São Miguel dos Campos",
       "coordinates": [
         -9.781136,
@@ -223,6 +227,7 @@
     },
     {
       "confirmed": 1,
+      "deaths": 1,
       "name": "Delmiro Gouveia",
       "coordinates": [
         -9.384701,
@@ -271,7 +276,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 6,
       "name": "Barra de São Miguel",
       "coordinates": [
         -9.827261,
@@ -304,7 +309,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "name": "Batalha",
       "coordinates": [
         -9.673687,
@@ -328,7 +333,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "name": "Penedo",
       "coordinates": [
         -10.281988,
@@ -337,6 +342,7 @@
     },
     {
       "confirmed": 1,
+      "deaths": 1,
       "name": "Paulo Jacinto",
       "coordinates": [
         -9.371743,
@@ -421,6 +427,15 @@
       "coordinates": [
         -9.638898,
         -35.800356
+      ]
+    },
+    {
+      "confirmed": 1,
+      "deaths": 1,
+      "name": "Messias",
+      "coordinates": [
+        -9.391640,
+        -35.842762
       ]
     }
   ]
