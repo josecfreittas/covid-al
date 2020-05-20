@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020",
+  "lastUpdate": "19/05/2020",
   "sources": [
     {
       "title": "Governo de Alagoas",
@@ -14,12 +14,12 @@
     -36.680672,
     -9.574678
   ],
-  "suspects": 838,
-  "recovered": 356,
+  "suspects": 1100,
+  "recovered": 2504,
   "cities": [
     {
-      "confirmed": 1260,
-      "deaths": 50,
+      "confirmed": 2897,
+      "deaths": 154,
       "name": "Maceió",
       "coordinates": [
         -9.644031,
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "confirmed": 36,
-      "deaths": 2,
+      "confirmed": 96,
+      "deaths": 7,
       "name": "Marechal Deodoro",
       "coordinates": [
         -9.763292,
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "confirmed": 32,
-      "deaths": 1,
+      "confirmed": 90,
+      "deaths": 6,
       "name": "Rio Largo",
       "coordinates": [
         -9.503844,
@@ -45,8 +45,8 @@
       ]
     },
     {
-      "confirmed": 25,
-      "deaths": 1,
+      "confirmed": 60,
+      "deaths": 2,
       "name": "Murici",
       "coordinates": [
         -9.310606,
@@ -62,7 +62,8 @@
       ]
     },
     {
-      "confirmed": 18,
+      "confirmed": 63,
+      "deaths": 2,
       "name": "Palmeira dos Índios",
       "coordinates": [
         -9.413621,
@@ -70,7 +71,8 @@
       ]
     },
     {
-      "confirmed": 19,
+      "confirmed": 77,
+      "deaths": 1,
       "name": "Satuba",
       "coordinates": [
         -9.569310,
@@ -78,8 +80,8 @@
       ]
     },
     {
-      "confirmed": 11,
-      "deaths": 1,
+      "confirmed": 55,
+      "deaths": 8,
       "name": "União dos Palmares",
       "coordinates": [
         -9.157589,
@@ -87,7 +89,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 13,
       "deaths": 1,
       "name": "São Miguel dos Milagres",
       "coordinates": [
@@ -96,8 +98,8 @@
       ]
     },
     {
-      "confirmed": 27,
-      "deaths": 3,
+      "confirmed": 140,
+      "deaths": 6,
       "name": "Arapiraca",
       "coordinates": [
         -9.749389,
@@ -105,7 +107,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 11,
       "deaths": 1,
       "name": "Viçosa",
       "coordinates": [
@@ -123,7 +125,8 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 14,
+      "deaths": 1,
       "name": "Boca da Mata",
       "coordinates": [
         -9.643075,
@@ -131,8 +134,8 @@
       ]
     },
     {
-      "confirmed": 9,
-      "deaths": 1,
+      "confirmed": 44,
+      "deaths": 4,
       "name": "Pilar",
       "coordinates": [
         -9.596665,
@@ -140,7 +143,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 9,
       "name": "Capela",
       "coordinates": [
         -9.406886,
@@ -148,7 +151,7 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 1,
       "name": "Maribondo",
       "coordinates": [
@@ -157,7 +160,8 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 7,
+      "deaths": 1,
       "name": "Piaçabuçu",
       "coordinates": [
         -10.400158,
@@ -165,7 +169,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 6,
       "deaths": 1,
       "name": "Limoeiro de Anadia",
       "coordinates": [
@@ -174,7 +178,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 3,
       "name": "Barra de Santo Antônio",
       "coordinates": [
         -9.405385,
@@ -182,7 +186,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 10,
       "deaths": 1,
       "name": "Anadia",
       "coordinates": [
@@ -191,8 +195,8 @@
       ]
     },
     {
-      "confirmed": 2,
-      "deaths": 2,
+      "confirmed": 13,
+      "deaths": 3,
       "name": "Paripueira",
       "coordinates": [
         -9.466286,
@@ -200,7 +204,7 @@
       ]
     },
     {
-      "confirmed": 6,
+      "confirmed": 44,
       "deaths": 1,
       "name": "São Miguel dos Campos",
       "coordinates": [
@@ -209,7 +213,7 @@
       ]
     },
     {
-      "confirmed": 5,
+      "confirmed": 30,
       "name": "Santa Luzia do Norte",
       "coordinates": [
         -9.603225,
@@ -217,8 +221,8 @@
       ]
     },
     {
-      "confirmed": 9,
-      "deaths": 1,
+      "confirmed": 20,
+      "deaths": 2,
       "name": "Maragogi",
       "coordinates": [
         -9.010856,
@@ -226,7 +230,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 5,
       "deaths": 1,
       "name": "Delmiro Gouveia",
       "coordinates": [
@@ -235,7 +239,7 @@
       ]
     },
     {
-      "confirmed": 4,
+      "confirmed": 59,
       "name": "São Sebastião",
       "coordinates": [
         -9.932608,
@@ -243,7 +247,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 5,
       "name": "Olho d'Agua das Flores",
       "coordinates": [
         -9.532625,
@@ -251,7 +255,8 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 40,
+      "deaths": 1,
       "name": "Porto Calvo",
       "coordinates": [
         -9.057054,
@@ -259,7 +264,8 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 36,
+      "deaths": 2,
       "name": "Atalaia",
       "coordinates": [
         -9.512066,
@@ -267,7 +273,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 8,
       "deaths": 1,
       "name": "Matriz do Camaragibe",
       "coordinates": [
@@ -276,7 +282,7 @@
       ]
     },
     {
-      "confirmed": 6,
+      "confirmed": 9,
       "name": "Barra de São Miguel",
       "coordinates": [
         -9.827261,
@@ -284,7 +290,8 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 56,
+      "deaths": 2,
       "name": "Coruripe",
       "coordinates": [
         -10.124291,
@@ -301,7 +308,7 @@
       ]
     },
     {
-      "confirmed": 6,
+      "confirmed": 24,
       "name": "Junqueiro",
       "coordinates": [
         -9.918161,
@@ -309,7 +316,8 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 6,
+      "deaths": 1,
       "name": "Batalha",
       "coordinates": [
         -9.673687,
@@ -317,7 +325,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 6,
       "name": "Branquinha",
       "coordinates": [
         -9.245874,
@@ -333,7 +341,8 @@
       ]
     },
     {
-      "confirmed": 2,
+      "confirmed": 13,
+      "deaths": 2,
       "name": "Penedo",
       "coordinates": [
         -10.281988,
@@ -341,8 +350,8 @@
       ]
     },
     {
-      "confirmed": 1,
-      "deaths": 1,
+      "confirmed": 9,
+      "deaths": 2,
       "name": "Paulo Jacinto",
       "coordinates": [
         -9.371743,
@@ -350,7 +359,7 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 11,
       "name": "Taquarana",
       "coordinates": [
         -9.646502,
@@ -359,6 +368,7 @@
     },
     {
       "confirmed": 1,
+      "deaths": 1,
       "name": "Novo Lino",
       "coordinates": [
         -8.943207,
@@ -366,7 +376,8 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 6,
+      "deaths": 1,
       "name": "Campo Alegre",
       "coordinates": [
         -9.785490,
@@ -374,7 +385,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 9,
       "name": "Colônia Leopoldina",
       "coordinates": [
         -8.916113,
@@ -382,7 +393,8 @@
       ]
     },
     {
-      "confirmed": 3,
+      "confirmed": 5,
+      "deaths": 2,
       "name": "Joaquim Gomes",
       "coordinates": [
         -9.135441,
@@ -390,7 +402,8 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 35,
+      "deaths": 3,
       "name": "Santana do Ipanema",
       "coordinates": [
         -9.373430,
@@ -398,7 +411,8 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 37,
+      "deaths": 1,
       "name": "Teotônio Vilela",
       "coordinates": [
         -9.910270,
@@ -414,7 +428,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 29,
       "name": "Jequiá da Praia",
       "coordinates": [
         -10.011100,
@@ -422,7 +436,7 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 8,
       "name": "Coqueiro Seco",
       "coordinates": [
         -9.638898,
@@ -430,12 +444,298 @@
       ]
     },
     {
-      "confirmed": 1,
+      "confirmed": 7,
       "deaths": 1,
       "name": "Messias",
       "coordinates": [
         -9.391640,
         -35.842762
+      ]
+    },
+    {
+      "confirmed": 20,
+      "name": "São José da Laje",
+      "coordinates": [
+        -9.008772,
+        -36.055586
+      ]
+    },
+    {
+      "confirmed": 17,
+      "name": "São Luís do Quitunde",
+      "coordinates": [
+        -9.318892,
+        -35.561919
+      ]
+    },
+    {
+      "confirmed": 14,
+      "deaths": 1,
+      "name": "Campestre",
+      "coordinates": [
+        -8.847997,
+        -35.568153
+      ]
+    },
+    {
+      "confirmed": 8,
+      "name": "São José da Tapera",
+      "coordinates": [
+        -9.557972,
+        -37.382925
+      ]
+    },
+    {
+      "confirmed": 7,
+      "name": "Craíbas",
+      "coordinates": [
+        -9.617716,
+        -36.766500
+      ]
+    },
+    {
+      "confirmed": 7,
+      "deaths": 1,
+      "name": "Japaratinga",
+      "coordinates": [
+        -9.089712,
+        -35.258366
+      ]
+    },
+    {
+      "confirmed": 7,
+      "name": "Quebrangulo",
+      "coordinates": [
+        -9.321309,
+        -36.471899
+      ]
+    },
+    {
+      "confirmed": 6,
+      "deaths": 1,
+      "name": "Campo Grande",
+      "coordinates": [
+        -9.956090,
+        -36.793063
+      ]
+    },
+    {
+      "confirmed": 6,
+      "name": "Major Izidoro",
+      "coordinates": [
+        -9.532686,
+        -36.988254
+      ]
+    },
+    {
+      "confirmed": 5,
+      "name": "Carneiros",
+      "coordinates": [
+        -9.484841,
+        -37.377058
+      ]
+    },
+    {
+      "confirmed": 4,
+      "deaths": 1,
+      "name": "Cacimbinhas",
+      "coordinates": [
+        -9.402180,
+        -36.991621
+      ]
+    },
+    {
+      "confirmed": 4,
+      "name": "Monteirópolis",
+      "coordinates": [
+        -9.604084,
+        -37.250712
+      ]
+    },
+    {
+      "confirmed": 4,
+      "deaths": 1,
+      "name": "Passo de Camaragibe",
+      "coordinates": [
+        -9.242878,
+        -35.490006
+      ]
+    },
+    {
+      "confirmed": 4,
+      "name": "Pindoba",
+      "coordinates": [
+        -9.475323,
+        -36.288020
+      ]
+    },
+    {
+      "confirmed": 4,
+      "name": "Pão de Açúcar",
+      "coordinates": [
+        -9.748937,
+        -37.435258
+      ]
+    },
+    {
+      "confirmed": 4,
+      "name": "Coité do Noia",
+      "coordinates": [
+        -9.632956,
+        -36.580855
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Jacuípe",
+      "coordinates": [
+        -8.840026,
+        -35.459410
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Roteiro",
+      "coordinates": [
+        -9.836218,
+        -35.979348
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Cajueiro",
+      "coordinates": [
+        -9.399150,
+        -36.157251
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Maravilha",
+      "coordinates": [
+        -9.231048,
+        -37.352537
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Mar Vermelho",
+      "coordinates": [
+        -9.447777,
+        -36.388011
+      ]
+    },
+    {
+      "confirmed": 3,
+      "deaths": 1,
+      "name": "Flexeiras",
+      "coordinates": [
+        -9.276256,
+        -35.728100
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Feira Grande",
+      "coordinates": [
+        -9.900638,
+        -36.677376
+      ]
+    },
+    {
+      "confirmed": 3,
+      "name": "Tanque d´Arca",
+      "coordinates": [
+        -9.535266,
+        -36.433162
+      ]
+    },
+    {
+      "confirmed": 2,
+      "name": "Piranhas",
+      "coordinates": [
+        -9.610379,
+        -37.763114
+      ]
+    },
+    {
+      "confirmed": 2,
+      "name": "Olivença",
+      "coordinates": [
+        -9.518990,
+        -37.194283
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Canapi",
+      "coordinates": [
+        -9.116755,
+        -37.604735
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Inhapi",
+      "coordinates": [
+        -9.226031,
+        -37.747865
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Igaci",
+      "coordinates": [
+        -9.536286,
+        -36.633053
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Poço das Trincheiras",
+      "coordinates": [
+        -9.305915,
+        -37.285342
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Jundiá",
+      "coordinates": [
+        -8.941116,
+        -35.555705
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Porto de Pedras",
+      "coordinates": [
+        -9.159802,
+        -35.302190
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Dois Riachos",
+      "coordinates": [
+        -9.386904,
+        -37.088097
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Senador Rui Palmeira",
+      "coordinates": [
+        -9.470264,
+        -37.458180
+      ]
+    },
+    {
+      "confirmed": 1,
+      "name": "Olho d´Água do Casado",
+      "coordinates": [
+        -9.503943,
+        -37.830665
       ]
     }
   ]
